@@ -4,7 +4,7 @@ Python jupyter notebooks using the ten library
 ## Roadmap
 - [x] [1 Basics, tensor creation and manipulation](notebooks/1.Basics.ipynb)
 - [x] [2 Maths with unary functions](notebooks/2.Maths_unary_functions.ipynb)
-- [] 3 Maths with binary functions
+- [x] [3 Maths with binary functions and operators overloading](notebooks/3.Maths_binary_functions.ipynb)
 - [x] [4 Distributions](notebooks/4.Distributions.ipynb)
 - [] 5 Maths (root finding, integration, interpolation, special functions)
 - [x] [6 Linear algebra](notebooks/6.Linear_algebra.ipynb)
