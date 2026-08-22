@@ -2,12 +2,12 @@
 Python jupyter notebooks using the ten library
 
 ## Roadmap
-- [] 1 Basics, tensor creation and manipulation
-- [] 2 Maths with unary functions
+- [x] [1 Basics, tensor creation and manipulation](notebooks/1.Basics.ipynb)
+- [x] [2 Maths with unary functions](2.Maths_unary_functions.ipynb)
 - [] 3 Maths with binary functions
-- [] 4 Distributions
+- [x] [4 Distributions](notebooks/4.Distributions.ipynb)
 - [] 5 Maths (root finding, integration, interpolation, special functions)
-- [] 6 Linear algebra
+- [x] [6 Linear algebra](notebooks/6.Linear_algebra.ipynb)
 - []  Linear and non linear least squares
 - []  Fast fourier transform
 - []  Wavelet transform
