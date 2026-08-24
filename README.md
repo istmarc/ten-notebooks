@@ -8,25 +8,27 @@ Python jupyter notebooks using the ten library
 - [x] [4 Distributions](notebooks/4.Distributions.ipynb)
 - [] 5 Maths (root finding, integration, interpolation, special functions)
 - [x] [6 Linear algebra](notebooks/6.Linear_algebra.ipynb)
-- []  Linear and non linear least squares
-- []  Fast fourier transform
-- []  Wavelet transform
-- []  Sorting
-- []  Combinatorics
-- []  Quasi random sequences
-- []  Reshape
-- []  Broadcast
-- []  Plots
-- []  Probabilty and simulation of random variables
-- []  Statistics and hypothesis testing
-- []  Stochastic process
-- []  Markov chain monte carlo (MCMC)
-- []  Optimization
-- []  Machine learning
-- []  Deep learning
-- []  Ordinary differential equations (ODEs)
-- []  Partial differential equations (PDEs)
-- []  Image processing
-- []  Times series
-- []  Quantitative finance
+- [] 7 Linear and non linear least squares
+- [] 8 Fast fourier transform
+- [] 9 Wavelet transform
+- [] 10 Sorting
+- [] 11 Combinatorics
+- [] 12 Quasi random sequences
+- [] 13 Reshape
+- [] 14 Broadcast
+- [] 15 Plots
+- [] 16 Probabilty and simulation of random variables
+- [] 17 Statistics and hypothesis testing
+- [] 18 Stochastic process
+- [] 19 Markov chain monte carlo (MCMC)
+- [] 20 Optimization
+- [x] [21 Fitting histogram](notebooks/21.Histogram.ipynb)
+- [] 22 Machine learning regression
+- [] 23 Machine learning classifiction
+- [] 24 Deep learning
+- [] 25 Ordinary differential equations (ODEs)
+- [] 26 Partial differential equations (PDEs)
+- [] 27 Image processing
+- [] 28 Times series
+- [] 29 Quantitative finance
 
