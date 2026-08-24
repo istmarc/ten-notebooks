@@ -11,7 +11,7 @@ Python jupyter notebooks using the ten library
 - [x] [7 Linear systems, linear and non linear least squares](7.System_squares.ipynb)
 - [] 8 Fast fourier transform
 - [] 9 Wavelet transform
-- [] 10 Sorting
+- [x] [10 Sorting](notebooks/10.Sorting.ipynb)
 - [] 11 Combinatorics
 - [] 12 Quasi random sequences
 - [] 13 Reshape
