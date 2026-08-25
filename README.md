@@ -31,4 +31,6 @@ Python jupyter notebooks using the ten library
 - [] 27 Image processing
 - [] 28 Times series
 - [] 29 Quantitative finance
+- [x] [30 Plots](notebooks/30.Plots.ipynb)
+
 
