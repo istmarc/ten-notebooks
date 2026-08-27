@@ -17,7 +17,7 @@ Python jupyter notebooks using the ten library
 - [] 13 Reshape
 - [] 14 Broadcast
 - [] 15 Plots
-- [] 16 Probabilty and simulation of random variables
+- [x] [16 Probabilty and simulation of random variables](16.Probability.ipynb)
 - [] 17 Statistics and hypothesis testing
 - [] 18 Stochastic process
 - [x] [19 Markov chain monte carlo (MCMC)](notebooks/19.MCMC.ipynb)
