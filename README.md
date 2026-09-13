@@ -19,7 +19,7 @@ Python jupyter notebooks using the ten library
 - [] 15 Plots
 - [x] [16 Probabilty and simulation of random variables](notebooks/16.Probability.ipynb)
 - [] 17 Statistics and hypothesis testing
-- [] 18 Stochastic process
+- [x] [18 Stochastic process](notebooks/18.Process.ipynb)
 - [x] [19 Markov chain monte carlo (MCMC)](notebooks/19.MCMC.ipynb)
 - [] 20 Optimization
 - [x] [21 Fitting histogram](notebooks/21.Histogram.ipynb)
