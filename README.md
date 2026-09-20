@@ -21,9 +21,9 @@ Python jupyter notebooks using the ten library
 - [] 17 Statistics and hypothesis testing
 - [x] [18 Stochastic process](notebooks/18.Process.ipynb)
 - [x] [19 Markov chain monte carlo (MCMC)](notebooks/19.MCMC.ipynb)
-- [] 20 Optimization
+- [] 20 Mathematical optimization
 - [x] [21 Fitting histogram](notebooks/21.Histogram.ipynb)
-- [] 22 Machine learning regression
+- [x] [22 Machine learning regression](notebooks/22.Machine_learning_regression.ipynb)
 - [] 23 Machine learning classifiction
 - [] 24 Deep learning
 - [] 25 Ordinary differential equations (ODEs)
@@ -31,6 +31,5 @@ Python jupyter notebooks using the ten library
 - [] 27 Image processing
 - [] 28 Times series
 - [] 29 Quantitative finance
-- [x] [30 Plots](notebooks/30.Plots.ipynb)
-
-
+- [x] [30 Combinatorics](notebooks/30.Combinatorics.ipynb)
+- [x] [31 Plots](notebooks/31.Plots.ipynb)
