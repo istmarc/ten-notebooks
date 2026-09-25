@@ -33,3 +33,4 @@ Python jupyter notebooks using the ten library
 - [] 29 Quantitative finance
 - [x] [30 Combinatorics](notebooks/30.Combinatorics.ipynb)
 - [x] [31 Plots](notebooks/31.Plots.ipynb)
+- [x] [32 Graph data structure and algorithms](notebooks/32.Graphs.ipynb)
