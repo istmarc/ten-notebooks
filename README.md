@@ -26,7 +26,7 @@ Python jupyter notebooks using the ten library
 - [x] [22 Machine learning regression](notebooks/22.Machine_learning_regression.ipynb)
 - [] 23 Machine learning classifiction
 - [] 24 Deep learning
-- [] 25 Ordinary differential equations (ODEs)
+- [x] [25 Ordinary differential equations (ODEs)](notebooks/25.ODES.ipynb)
 - [] 26 Partial differential equations (PDEs)
 - [] 27 Image processing
 - [] 28 Times series
