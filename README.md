@@ -9,7 +9,7 @@ Python jupyter notebooks using the ten library
 - [] 5 Maths (root finding, integration, interpolation, special functions)
 - [x] [6 Linear algebra](notebooks/6.Linear_algebra.ipynb)
 - [x] [7 Linear systems, linear and non linear least squares](notebooks/7.System_squares.ipynb)
-- [] 8 Fast fourier transform
+- [x] [8 Fast fourier transform](notebooks/8.FFT.ipynb)
 - [] 9 Wavelet transform
 - [x] [10 Sorting](notebooks/10.Sorting.ipynb)
 - [] 11 Combinatorics
